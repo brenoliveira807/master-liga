@@ -1,0 +1,13 @@
+# Dependências do Node.js (não usadas)
+node_modules/
+
+# Arquivos de backup não essenciais
+*-backup*.html
+*-v3.*css
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
